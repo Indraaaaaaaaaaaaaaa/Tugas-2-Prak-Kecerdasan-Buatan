@@ -1,0 +1,6 @@
+flask==2.3.3
+werkzeug==2.3.7
+numpy==1.21.0
+matplotlib==3.4.2
+scikit-learn==0.24.2
+gunicorn==23.0.0
